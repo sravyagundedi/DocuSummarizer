@@ -1,0 +1,7 @@
+Alice: Good morning. We need to decide whether to launch the customer portal on October 15.
+Bob: Engineering can support October 15 if we freeze new features by October 5.
+Carol: I recommend the October 15 launch, but the authentication audit is still open.
+Alice: Agreed. We will launch October 15, provided the authentication audit is closed by October 12.
+Bob: I will coordinate the authentication fixes with the security team by October 10.
+Carol: I will publish the customer onboarding guide by October 8.
+Alice: The main risk is that unresolved authentication issues could delay the launch.

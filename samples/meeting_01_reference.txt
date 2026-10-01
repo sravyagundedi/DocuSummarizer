@@ -1,0 +1,1 @@
+The team plans to launch the customer portal on October 15, conditional on closing the authentication audit by October 12. Engineering will coordinate authentication fixes by October 10, and the onboarding guide is due October 8. The main risk is unresolved authentication issues delaying launch.

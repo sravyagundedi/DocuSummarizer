@@ -1,0 +1,1 @@
+Speaker A: We reviewed project item 3.\nSpeaker B: The team agreed to continue the work and revisit the milestone next week.\nSpeaker C: I will prepare the next update before the next meeting.\nSpeaker A: A possible risk is that dependencies may cause delay.\n
